@@ -134,9 +134,9 @@ static void mqtt_app_start(void)
         .event_handle = mqtt_event_handler,
         .host = "183.230.40.39",
         .port = 6002,
-        .client_id = "7476836",
-        .username = "89406",
-        .password = "eRIHhEPyAM5=6rGFgl0q=VUvMQI=",
+        .client_id = "7476836", //设备ID
+        .username = "89406",    //产品ID
+        .password = "eRIHhEPyAM5=6rGFgl0q=VUvMQI=", //master-APIkey
         .keepalive = 120,
         //.lwt_topic = "/lwt",
         //.lwt_msg = "offline",

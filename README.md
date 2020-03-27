@@ -1,6 +1,8 @@
 > based on ESP-IDF Release v3.3's official mqtt lib
 
-
+> Code will be updated both in github and gitee(master):
+>
+> [gitee](https://gitee.com/rillhu/esp32-onenet-mqtt.git) [github](https://github.com/rillhu/esp32-onenet-mqtt.git)
 
 # Adapt for onenet MQTT(old)
 
@@ -17,10 +19,6 @@
   https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20181001.zip
 
 - other changes see code: Add push ds18b20 temperature to onetnet
-
-
-
-
 
 
 
